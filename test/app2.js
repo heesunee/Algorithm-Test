@@ -18,3 +18,5 @@ account.forEach((num, index) => {
 });
 
 return account;
+
+console.log(account);
